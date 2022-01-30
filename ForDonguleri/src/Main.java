@@ -20,7 +20,7 @@ public class Main {
 		scanner.close();
 		
 		
-		
+		// Yeni temel branch 
 	}
 
 }
