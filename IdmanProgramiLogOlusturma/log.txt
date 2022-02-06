@@ -1,0 +1,5 @@
+İdman Programi
+Burpee sayisi : 15
+Pushup sayisi : 15
+Situp sayisi : 15
+1. işlem -----> Hareket : Situp Sayi : 152. işlem -----> Hareket : Burpee Sayi : 153. işlem -----> Hareket : Pushup Sayi : 154. işlem -----> Hareket : Squat Sayi : 15
