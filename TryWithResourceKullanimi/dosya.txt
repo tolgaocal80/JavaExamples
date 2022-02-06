@@ -1,0 +1,9 @@
+Türkçe
+Ýngilizce
+Almanca
+Java
+Python
+Go
+JS
+C
+C++
